@@ -1,0 +1,35 @@
+.jumbotron {
+    background-image: url('../images/download.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+#imageTitle {
+    text-decoration: underline;
+}
+
+#aboutTitle {
+    text-decoration: underline;
+    color: blue
+}
+
+#aboutText {
+    color: chocolate;
+}
+
+#linkAbout {
+    text-decoration: none;
+    color: blue
+}
+
+.experienceTitle {
+    text-decoration: underline;
+    color: blue
+}
+
+#moreTitle {
+    text-decoration: underline;
+    color: blue
+}
